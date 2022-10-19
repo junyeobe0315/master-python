@@ -1,7 +1,7 @@
 import bisect
 import random
 
-SIZE = 10
+SIZE = 20
 
 my_list = []
 for i in range(SIZE):
